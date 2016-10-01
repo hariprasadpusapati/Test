@@ -20,6 +20,8 @@ a {
     padding-left: 3px;
     padding-right: 3px;
     text-decoration: underline;
+
+      text-decoration: underline;
 }
 
     a:link, a:visited,

@@ -46,7 +46,7 @@ namespace GitTest.Controllers
         }
 
         //
-        // POST: /Account/LogOff
+        // POST: /Account/LogOff modified
 
         [HttpPost]
         [ValidateAntiForgeryToken]
