@@ -41,7 +41,7 @@ namespace GitTest.Models
         [Required]
         [DataType(DataType.Password)]
         [Display(Name = "Current password")]
-        public string OldPassword { get; set; }
+        public string OldPassword { get; set; } //This file also has been changed..
 
         [Required]
         [StringLength(100, ErrorMessage = "The {0} must be at least {2} characters long.", MinimumLength = 6)]
