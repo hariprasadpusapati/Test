@@ -7,5 +7,7 @@ namespace GitTest.Models
 {
     public class Module
     {
+        public string Name { get; set; }
+        public string Address { get; set; }
     }
 }
